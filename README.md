@@ -8,7 +8,7 @@ Our application provides real-time monitoring and analysis of indoor air quality
 
 Impotant Key Features:
 
-1. Real-time Air Quality Data: Our app collects data from multiple sensors placed throughout your indoor area, measuring various parameters such as temperature, humidity, carbon dioxide (CO2) levels, volatile organic compounds (VOCs), and particulate matter (PM2.5). Stay informed about the quality of the air you breathe!
+1. Real-time Air Quality Data: Our app collects data from multiple sensors placed throughout your indoor area, measuring various parameters such as temperature, humidity, (CO)(CO2) levels, volatile organic compounds (VOCs). Stay informed about the quality of the air you breathe!
 
 2. Customizable Alerts: Set personalized thresholds for different air quality parameters. Receive instant notifications when any of these thresholds are exceeded, allowing you to take immediate action to improve the air quality.
 
